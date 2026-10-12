@@ -52,7 +52,11 @@ native-app-style dashboard.
 
 ## Screenshots
 
-Screenshots use synthetic mock data only. *(To be added.)*
+All screens show synthetic mock data — nothing here is real.
+
+![Overview — net worth dashboard](docs/images/overview.svg)
+![Research — stock card with metrics](docs/images/research.svg)
+![Spending — transactions and budgets](docs/images/spending.svg)
 
 ## Privacy
 
