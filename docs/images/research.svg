@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="940" viewBox="0 0 1200 940" role="img" aria-label="Finance Hub stock research card mockup">
+<rect width="1200" height="940" fill="#0B0B10"/>
+<text x="48" y="64" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="22" fill="#F2F2F5" font-weight="700" text-anchor="start" opacity="1">Finance Hub</text>
+<text x="48" y="92" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="15" fill="#9A9AA5" font-weight="400" text-anchor="start" opacity="1">Investments · Research</text>
+<circle cx="1152" cy="72" r="10" fill="#30D158" opacity="0.9"/>
+<rect x="48" y="112" width="150" height="34" rx="17.0" fill="#1C2B1C"/>
+<text x="123.0" y="133.68" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#30D158" font-weight="600" text-anchor="middle" opacity="1">Stronger core</text>
+<rect x="210" y="112" width="140" height="34" rx="17.0" fill="#2B2416"/>
+<text x="280.0" y="133.68" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#FFD60A" font-weight="600" text-anchor="middle" opacity="1">Watch closely</text>
+<rect x="362" y="112" width="130" height="34" rx="17.0" fill="#2B1A1A"/>
+<text x="427.0" y="133.68" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#FF6159" font-weight="600" text-anchor="middle" opacity="1">Highest risk</text>
+<rect x="48" y="166" width="1104" height="690" rx="16" fill="#15151D" stroke="#262633" stroke-width="1"/>
+<text x="88" y="218" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="30" fill="#F2F2F5" font-weight="700" text-anchor="start" opacity="1">EGCO</text>
+<text x="88" y="246" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="15" fill="#9A9AA5" font-weight="400" text-anchor="start" opacity="1">Example Growth Co · Stronger core</text>
+<text x="1064" y="218" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="30" fill="#F2F2F5" font-weight="700" text-anchor="end" opacity="1">$152.30</text>
+<text x="1064" y="246" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="15" fill="#30D158" font-weight="600" text-anchor="end" opacity="1">+1.8% today</text>
+<text x="88" y="292" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="14" fill="#9A9AA5" font-weight="400" text-anchor="start" opacity="1">Next earnings: Oct 28, 2026 · After close</text>
+<rect x="88" y="330" width="244" height="96" rx="12" fill="#1B1B24"/>
+<text x="106" y="360" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="12" fill="#9A9AA5" font-weight="600" text-anchor="start" opacity="1">TRAILING P/E</text>
+<text x="106" y="390" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="24" fill="#F2F2F5" font-weight="700" text-anchor="start" opacity="1">24.5x</text>
+<text x="106" y="412" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="12" fill="#9A9AA5" font-weight="400" text-anchor="start" opacity="1">vs 5-yr avg 22x</text>
+<rect x="348" y="330" width="244" height="96" rx="12" fill="#1B1B24"/>
+<text x="366" y="360" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="12" fill="#9A9AA5" font-weight="600" text-anchor="start" opacity="1">FORWARD P/E</text>
+<text x="366" y="390" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="24" fill="#F2F2F5" font-weight="700" text-anchor="start" opacity="1">21.0x</text>
+<text x="366" y="412" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="12" fill="#9A9AA5" font-weight="400" text-anchor="start" opacity="1">next-12-mo est.</text>
+<rect x="608" y="330" width="244" height="96" rx="12" fill="#1B1B24"/>
+<text x="626" y="360" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="12" fill="#9A9AA5" font-weight="600" text-anchor="start" opacity="1">PEG</text>
+<text x="626" y="390" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="24" fill="#F2F2F5" font-weight="700" text-anchor="start" opacity="1">1.4x</text>
+<text x="626" y="412" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="12" fill="#9A9AA5" font-weight="400" text-anchor="start" opacity="1">directional</text>
+<rect x="868" y="330" width="244" height="96" rx="12" fill="#1B1B24"/>
+<text x="886" y="360" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="12" fill="#9A9AA5" font-weight="600" text-anchor="start" opacity="1">REVENUE</text>
+<text x="886" y="390" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="24" fill="#F2F2F5" font-weight="700" text-anchor="start" opacity="1">$48.2B</text>
+<text x="886" y="412" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="12" fill="#9A9AA5" font-weight="400" text-anchor="start" opacity="1">TTM</text>
+<rect x="88" y="442" width="244" height="96" rx="12" fill="#1B1B24"/>
+<text x="106" y="472" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="12" fill="#9A9AA5" font-weight="600" text-anchor="start" opacity="1">REVENUE GROWTH</text>
+<text x="106" y="502" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="24" fill="#F2F2F5" font-weight="700" text-anchor="start" opacity="1">+18%</text>
+<text x="106" y="524" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="12" fill="#9A9AA5" font-weight="400" text-anchor="start" opacity="1">YoY</text>
+<rect x="348" y="442" width="244" height="96" rx="12" fill="#1B1B24"/>
+<text x="366" y="472" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="12" fill="#9A9AA5" font-weight="600" text-anchor="start" opacity="1">NET MARGIN</text>
+<text x="366" y="502" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="24" fill="#F2F2F5" font-weight="700" text-anchor="start" opacity="1">29.8%</text>
+<text x="366" y="524" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="12" fill="#9A9AA5" font-weight="400" text-anchor="start" opacity="1">TTM</text>
+<rect x="608" y="442" width="244" height="96" rx="12" fill="#1B1B24"/>
+<text x="626" y="472" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="12" fill="#9A9AA5" font-weight="600" text-anchor="start" opacity="1">DEBT / EQUITY</text>
+<text x="626" y="502" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="24" fill="#F2F2F5" font-weight="700" text-anchor="start" opacity="1">0.31x</text>
+<text x="626" y="524" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="12" fill="#9A9AA5" font-weight="400" text-anchor="start" opacity="1">conservative</text>
+<rect x="868" y="442" width="244" height="96" rx="12" fill="#1B1B24"/>
+<text x="886" y="472" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="12" fill="#9A9AA5" font-weight="600" text-anchor="start" opacity="1">DIVIDEND YIELD</text>
+<text x="886" y="502" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="24" fill="#F2F2F5" font-weight="700" text-anchor="start" opacity="1">0.9%</text>
+<text x="886" y="524" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="12" fill="#9A9AA5" font-weight="400" text-anchor="start" opacity="1">annualized</text>
+<text x="88" y="590" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#9A9AA5" font-weight="600" text-anchor="start" opacity="1">KEY RISKS</text>
+<text x="88" y="620" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="15" fill="#F2F2F5" font-weight="400" text-anchor="start" opacity="1">•  Valuation sensitive to growth expectations</text>
+<text x="88" y="646" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="15" fill="#F2F2F5" font-weight="400" text-anchor="start" opacity="1">•  Hardware cycle exposure in enterprise budgets</text>
+<text x="600.0" y="908" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#9A9AA5" font-weight="400" text-anchor="middle" opacity="0.8">Mock data — for illustration only. No real figures.</text>
+</svg>
