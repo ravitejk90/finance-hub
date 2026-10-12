@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-label="Finance Hub overview dashboard mockup">
+<rect width="1200" height="800" fill="#0B0B10"/>
+<text x="48" y="64" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="22" fill="#F2F2F5" font-weight="700" text-anchor="start" opacity="1">Finance Hub</text>
+<text x="48" y="92" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="15" fill="#9A9AA5" font-weight="400" text-anchor="start" opacity="1">Overview</text>
+<circle cx="1152" cy="72" r="10" fill="#30D158" opacity="0.9"/>
+<rect x="48" y="120" width="1104" height="170" rx="16" fill="#15151D" stroke="#262633" stroke-width="1"/>
+<text x="88" y="172" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#9A9AA5" font-weight="600" text-anchor="start" opacity="1">NET WORTH</text>
+<text x="88" y="228" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="52" fill="#F2F2F5" font-weight="700" text-anchor="start" opacity="1">$512,340.55</text>
+<text x="88" y="262" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="15" fill="#30D158" font-weight="600" text-anchor="start" opacity="1">+2.4% this month</text>
+<rect x="48" y="314" width="352" height="128" rx="16" fill="#15151D" stroke="#262633" stroke-width="1"/>
+<text x="76" y="356" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#9A9AA5" font-weight="600" text-anchor="start" opacity="1">ASSETS</text>
+<text x="76" y="398" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="30" fill="#0A84FF" font-weight="700" text-anchor="start" opacity="1">$980,120.44</text>
+<rect x="424" y="314" width="352" height="128" rx="16" fill="#15151D" stroke="#262633" stroke-width="1"/>
+<text x="452" y="356" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#9A9AA5" font-weight="600" text-anchor="start" opacity="1">DEBT</text>
+<text x="452" y="398" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="30" fill="#FF6159" font-weight="700" text-anchor="start" opacity="1">$467,779.89</text>
+<rect x="800" y="314" width="352" height="128" rx="16" fill="#15151D" stroke="#262633" stroke-width="1"/>
+<text x="828" y="356" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#9A9AA5" font-weight="600" text-anchor="start" opacity="1">CASH</text>
+<text x="828" y="398" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="30" fill="#30D158" font-weight="700" text-anchor="start" opacity="1">$45,230.10</text>
+<rect x="48" y="466" width="1104" height="280" rx="16" fill="#15151D" stroke="#262633" stroke-width="1"/>
+<text x="88" y="510" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#9A9AA5" font-weight="600" text-anchor="start" opacity="1">INVESTMENTS</text>
+<text x="88" y="548" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="34" fill="#F2F2F5" font-weight="700" text-anchor="start" opacity="1">$402,150.75</text>
+<text x="88" y="580" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="16" fill="#F2F2F5" font-weight="600" text-anchor="start" opacity="1">Example Growth Co</text>
+<text x="88" y="602" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#9A9AA5" font-weight="400" text-anchor="start" opacity="1">EGCO</text>
+<text x="1064" y="588" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="16" fill="#F2F2F5" font-weight="600" text-anchor="end" opacity="1">$15,230.10</text>
+<rect x="88" y="612" width="976" height="8" rx="4.0" fill="#262633"/>
+<rect x="88" y="612" width="830" height="8" rx="4.0" fill="#0A84FF"/>
+<text x="88" y="638" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="16" fill="#F2F2F5" font-weight="600" text-anchor="start" opacity="1">Example Index Fund</text>
+<text x="88" y="660" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#9A9AA5" font-weight="400" text-anchor="start" opacity="1">EETF</text>
+<text x="1064" y="646" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="16" fill="#F2F2F5" font-weight="600" text-anchor="end" opacity="1">$42,100.00</text>
+<rect x="88" y="670" width="976" height="8" rx="4.0" fill="#262633"/>
+<rect x="88" y="670" width="605" height="8" rx="4.0" fill="#0A84FF"/>
+<text x="88" y="696" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="16" fill="#F2F2F5" font-weight="600" text-anchor="start" opacity="1">Example Cloud Inc</text>
+<text x="88" y="718" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#9A9AA5" font-weight="400" text-anchor="start" opacity="1">ECLD</text>
+<text x="1064" y="704" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="16" fill="#F2F2F5" font-weight="600" text-anchor="end" opacity="1">$9,840.25</text>
+<rect x="88" y="728" width="976" height="8" rx="4.0" fill="#262633"/>
+<rect x="88" y="728" width="371" height="8" rx="4.0" fill="#0A84FF"/>
+<text x="600.0" y="768" font-family="-apple-system, 'SF Pro Text', Inter, 'Segoe UI', system-ui, sans-serif" font-size="13" fill="#9A9AA5" font-weight="400" text-anchor="middle" opacity="0.8">Mock data — for illustration only. No real figures.</text>
+</svg>
