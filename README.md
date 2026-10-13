@@ -47,6 +47,7 @@ native-app-style dashboard.
 │   ├── ARCHITECTURE.md    # System design: state, sync, research, automations
 │   ├── DATA_MODEL.md      # The snapshot schema with synthetic examples
 │   ├── FEATURES.md        # Feature tour of each tab
+│   ├── PAGES.md           # Page-by-page reference: every screen, element by element
 │   └── SETUP.md           # How to rebuild this for yourself
 ```
 
