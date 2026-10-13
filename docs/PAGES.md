@@ -47,8 +47,11 @@ private.
 **Layout.**
 
 1. `NET WORTH` hero card
-2. (Below the fold on small screens: asset/debt summary tiles — same fields as
-   the hero breakdown line)
+2. Four summary tiles: `Investments` (`Connected accounts`), `Cash`
+   (`Checking and savings`), `Home` (`Estimated value`), `Debts`
+   (`Mortgage and cards`) — each with icon, value, and a mini sparkline
+3. `ASSET MIX` / `Where your assets live` — donut chart with center total
+   (`Total assets`)
 
 **Elements.**
 
@@ -195,8 +198,9 @@ trend treatment as assets.
 | Element | Shows | Source |
 |---|---|---|
 | Hero card | Total debt (`mortgage.balance + Σ cards.value`), progress row, range selector, trend chart | *computed*, history log |
-| Card rows | Institution, card label + masked suffix, current balance | `snapshot.cards[]` |
-| Mortgage card | Balance, rate, monthly payment, due date, autopay status, extra principal | `snapshot.mortgage` |
+| Mortgage payment breakdown | Line-item rows: `Buydown Credit` (−), `Escrow`, `Interest`, `Principal` | `snapshot.mortgage` detail |
+| `CREDIT CARDS` section | `Balances` … `{total} total` | Σ cards |
+| Card rows | Card icon, `{name} …{last4}`, `{institution} · {Outstanding balance \| Zero balance}`, balance right-aligned | `snapshot.cards[]` |
 
 **Rules.**
 
@@ -233,6 +237,7 @@ transactions, budgets.
 | Transactions list | Merchant, date, category, amount | synced transactions |
 | Category control | Dropdown of existing categories (no free text) | category list |
 | Budget rows | Category, spent vs. budget, progress bar | budgets + transactions |
+| Budget detail card | `YOUR BUDGET` … `{Month Year} Budget` … `+ Add budget` … explainer (`A budget sets a monthly limit for an existing spending category.`) … `Left for spending {x}` … `{spent} spent of {budget}` … donut with `{pct}%` … `{Category}` … `{spent} / {budget}` | budgets + transactions |
 
 **Rules.**
 
@@ -293,8 +298,14 @@ transactions, budgets.
 
 | Element | Shows | Source |
 |---|---|---|
-| Goal cards | Name, target date, progress as **percentage/milestone** (no dollar amounts in titles), purpose line | `snapshot.savings_goals[]` + live cash |
-| Progress detail | Current pace vs. required pace, projected date | *computed* from cash history |
+| `+ Add goal` | Creates a new goal (opens the goal form overlay) | action |
+| Goal card header | Goal icon, name, funding-source subtitle (e.g. `Total cash`), `Edit` / `Delete` links | `snapshot.savings_goals[]` |
+| Description | Purpose line (e.g. what the reserve is for) | goal config |
+| `Saved` / `Target` row | Current saved amount (from live balances) … target amount | *computed* × goal config |
+| Progress bar | Fill = saved ÷ target | *computed* |
+| Status row | `{pct}% funded` … `{remaining} remaining` | *computed* |
+| Projection row | `Projected completion {date}` (from observed savings pace) … `Target date {date}` | *computed* from cash history |
+| Pace line | `Observed cash pace: {x}/mo` | *computed* from cash history |
 
 **Rules.**
 
